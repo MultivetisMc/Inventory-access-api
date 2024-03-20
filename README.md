@@ -7,7 +7,7 @@
 Advanced Inventory API for your Minecraft PaperMC plugins. Forked of [SmartInvs](https://github.com/MinusKube/SmartInvs) created by [MinusKube](https://github.com/MinusKube)
 
 *Tested Minecraft versions: 1.7, 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14*  
-**You can use this as a Plugin, or use it as a library** (see [the docs](https://minuskube.gitbook.io/smartinvs/))
+**You can use this as a Plugin, or use it as a library** (see [the docs](https://github.com/MultivetisMc/Inventory-access-api/wiki/))
 
 ## Features
 * Inventories of any type (workbench, chest, furnace, ...)
